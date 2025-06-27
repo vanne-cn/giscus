@@ -3,6 +3,11 @@
  * https://github.com/primer/primitives/blob/main/LICENSE
  */
 
+@import url(https://gcore.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.7/lxgwwenkaigbscreen.css);@import url(https://gcore.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.7/lxgwwenkaigbscreenr.css);@import url(https://gcore.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.7/lxgwwenkaiscreen.css);@import url(https://gcore.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.7/lxgwwenkaiscreenr.css);html {
+  font-family: LXGW WenKai Screen,system-ui,sans-serif!important;
+  text-rendering: optimizelegibility
+}
+
 main {
   --color-prettylights-syntax-comment: #6e7781;
   --color-prettylights-syntax-constant: #0550ae;
